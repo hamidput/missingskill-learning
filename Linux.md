@@ -5,8 +5,8 @@
 <br> ⦁	GNU/GPL :- This is open source  licence.
 <br> ⦁In 1983 Richard stallman started creating GNU opreating system and in 1985 he started open source moment.
 # Kernal:-
-⦁	Kernal is first softwear which manage hardware resource and give API to Enginner so he can using it he can devolpe full falge working GUI oprating system.
-⦁	Linux kernal act as core of full flage Opreating System.
+<br> ⦁	Kernal is first softwear which manage hardware resource and give API to Enginner so he can using it he can devolpe full falge working GUI oprating system.
+<br> ⦁	Linux kernal act as core of full flage Opreating System.
 # Distribution of opreting system:-
 1) Kali linux.
 2)Ubantu.
