@@ -1,10 +1,10 @@
 # Linux
-<br>|linux is open source  kernal.
+<br>linux is open source  kernal.
 	It's also called as GNUN/Linux-(Here GNU is oprating System and Linux is kernal).
-⦁	It's Devlope by linus torvald in 1991 in his home.
-⦁	GNU/GPL :- This is open source  licence.
-⦁	In 1983 Richard stallman started creating GNU opreating system and in 1985 he started open source moment.
-Kernal:-
+<br⦁	It's Devlope by linus torvald in 1991 in his home.
+<br>⦁	GNU/GPL :- This is open source  licence.
+⦁In 1983 Richard stallman started creating GNU opreating system and in 1985 he started open source moment.
+# Kernal:-
 ⦁	Kernal is first softwear which manage hardware resource and give API to Enginner so he can using it he can devolpe full falge working GUI oprating system.
 ⦁	Linux kernal act as core of full flage Opreating System.
 Distribution of opreting system:-
