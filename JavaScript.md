@@ -190,13 +190,6 @@ Syntax of a function is :
 ```
 Think of function like a food recipe.
 
-Eg :- Making a sandwich. The ingredients will be the parameters and the code will be the procedure we use on the ingredients and this procedure when performed should result us with a output which is a sandwich. 
-```js
-makeSandwich(onion 🧅, bread 🍞, tomato 🍅, cheese 🧀){
- let sandwich = 🧅 + 🍞 + 🍅 + 🧀;
- return sandwich 🥪;
-}
-```
 
 Also, if<span class="highlight"> a function is associated with an object it is often called as method</span>.
 
