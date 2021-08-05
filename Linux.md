@@ -1,4 +1,4 @@
-#Linux
+# Linux
 linux is open source  kernal.
 	It's also called as GNUN/Linux-(Here GNU is oprating System and Linux is kernal).
 ⦁	It's Devlope by linus torvald in 1991 in his home.
