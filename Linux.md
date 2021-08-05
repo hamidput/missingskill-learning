@@ -1,18 +1,18 @@
 # Linux
 <br>linux is open source  kernal.
 	It's also called as GNUN/Linux-(Here GNU is oprating System and Linux is kernal).
-<br⦁	It's Devlope by linus torvald in 1991 in his home.
-<br>⦁	GNU/GPL :- This is open source  licence.
+<br> ⦁	It's Devlope by linus torvald in 1991 in his home.
+<br> ⦁	GNU/GPL :- This is open source  licence.
 ⦁In 1983 Richard stallman started creating GNU opreating system and in 1985 he started open source moment.
 # Kernal:-
 ⦁	Kernal is first softwear which manage hardware resource and give API to Enginner so he can using it he can devolpe full falge working GUI oprating system.
 ⦁	Linux kernal act as core of full flage Opreating System.
-Distribution of opreting system:-
+# Distribution of opreting system:-
 1) Kali linux.
 2)Ubantu.
 3)RedHat.
 4)centos.
-Commands:-
+# Commands:-
 1) ls :- This Command is use for listing the all the file and directory in current working directory.
 2) ls -l:- This is use for listing the all file and directory and is file with is permission.
 3) ls -l -h:- This is use for lsiting the all the file and directory in human redeable form.
@@ -34,7 +34,7 @@ Commands:-
 18) rm -fr :- This is use for removing file or folder recersively.
 19) echo:- This is use for print anything like system variable like path.
 
-Linux file System and Directory:-
+# Linux file System and Directory:-
 1. /boot:-In boot folder kernel is located/stored
 2. /bin:-Bin contains binary files.
 3. /sbin:-The sbin file cannot be used by the normal user it can only be accessed by the system admin. sbin represents system binary files.
