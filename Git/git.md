@@ -125,9 +125,6 @@ Before we get into the intricate details of how Git actually works, we must go t
 
 Understanding the workflow of git is essential, as it will help us in being efficient and correcting if any errors are caused.
 
-<center>
-<img src="../assests/GitWorkflow.jpg" width="800">
-</center>
 
 The Workflow goes something like :-
 1. Clone the project from remote repository.
@@ -143,9 +140,7 @@ The Workflow goes something like :-
 
 ## <span class="header2">Git Workflow for application</span>
  
-<center>
-<img src="../assests/GitDevWorkflow.jpg" width="800">
-</center>
+
 
 * New development and non emergency are built in feature branches
 * Feature branches are branched off of the develop branch, and finished features and fixes are merged back into the develop branch.
