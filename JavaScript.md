@@ -53,15 +53,15 @@ Objects can be created in JS using three ways :-
 ```js
 // Using Object Literal
 var person = {
-  firstName : "Gaurav",
-  lastName : "Dhuri",
+  firstName : "Harshit",
+  lastName : "Singh",
   age: 23
 }
 
 // Using 'new' keyword
 var person = new Object();
-person.firstName = "Gaurav";
-person.lastName = "Dhuri";
+person.firstName = "Harshit";
+person.lastName = "Singh";
 person.age = "23";
 
 // Using Object Constructor
@@ -294,7 +294,7 @@ class Person{
   }
 }
 
-let person = new Person('Gaurav')
+let person = new Person('Harshit')
 person.printNameFunction()
 ```
 
@@ -313,7 +313,7 @@ class Person{
   }
 }
 
-let person = new Person('Gaurav')
+let person = new Person('Harshit')
 person.printNameArrow()
 ```
 
@@ -321,12 +321,12 @@ person.printNameArrow()
 <tr>
 <td>Output</td>
 <td>Function: </td>
-<td>Arrow: Gaurav</td>
+<td>Arrow: Harshit</td>
 </tr>
 <tr>
 <td>Reason</td>
 <td>In regular functions, <code>this</code> represents the object that called the function. Since, here <code>printNameFunction()</code> was called in global scope we get <code>this.name</code> empty</td>
-<td>In arrow functions, <code>this</code> always represents the object that defined the arrow function. This is why, when <code>printNameArrow()</code> was called we get <code>this.name</code> as Gaurav</td>
+<td>In arrow functions, <code>this</code> always represents the object that defined the arrow function. This is why, when <code>printNameArrow()</code> was called we get <code>this.name</code> as Harshit</td>
 </tr>
 </table>
 <br>
@@ -343,17 +343,17 @@ IIFE is divided into two parts :-
 Below are some ways we can write IIFE :-
 ```js
 (function(){
-  console.log("My Name is Gaurav");
+  console.log("My Name is Harshit");
 })();
-// Output will be- My Name is Gaurav
+// Output will be- My Name is Harshit
 
-(myName = function(name = "Gaurav Dhuri"){
+(myName = function(name =Harshit Singh"){
   console.log("My Name is" + name);
 })();
-// Output will be- My Name is Gaurav Dhuri
+// Output will be- My Name is Harshit Singh
 
-myName(Dhuri);  // Inline Parameter
-// Output will be- My Name is Dhuri
+myName(Harshit);  // Inline Parameter
+// Output will be- My Name is Harshit
 ```
 <span class="highlight">One of few reasons IIFE is used because it doesn't let Global variables get polluted and this helps us avoid variable conflicts</span>, however with the addition of block scopes like `const` and `let` IIFE isn't used as much anymore. 
 
@@ -370,33 +370,11 @@ function Person(person_fname, person_lname){
 }
 
 // creating objects
-const person1 = new Person('Gaurav','Dhuri');
-const person2 = new Person('Yash','Chaurasia');
+const person1 = new Person('Harshit'Singh');
 
 // access properties
-console.log(person1.fname); // Gaurav
-console.log(person2.fname); // Yash
+console.log(person1.fname); // Harshit
 ```
 
 
 
-<br>
-<br>
-<br>
-<style>
-.highlight{
-  color: #75FF33
-}
-.header3{
-  color: #E6D100
-}
-.header{
-  color: #EE82EE
-}
-.header2{
-  color: #00FFFF
-}
-.list{
-  color: #FF8080
-}
-</style>
